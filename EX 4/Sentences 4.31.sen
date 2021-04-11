@@ -1,0 +1,9 @@
+7.2.4.28445macs:Mac OS X10.16SntFC1613702581010D1613702963330C1613889829089D1613889961207D1613889975483C1613890093627D1613890157859S2034710~(Cube(a) & Larger(a, b))~Cube(a) | ~Larger(a, b)
+; Write the negation normal form of 1 here.  
+; Similarly for the other sentences that follow.~(Cube(a) | ~Larger(b, a))~Cube(a) & Larger(b, a )~(~Cube(a) | ~Larger(a, b) | a # b)
+; The NNF of this sentence will have no negation
+; signs in it.; ~~Cube(a) & ~~Larger(a,b) & ~~(a=b)
+Cube(a) & Larger(a, b) & a = b~(Tet(b) | (Large(c) & ~Smaller(d, e))); ~Tet(b) & ~(Large(c) & ~Smaller(d,e))
+;~Tet(b) & ~Large(c) | ~~Smaller(d, e )
+~Tet(b) & ( ~Large(c)  |  Smaller(d, e ))Dodec(f) | ~(Tet(b) | ~Tet(f) | ~Dodec(f)); Dodec(f) | (~Tet(b) & ~~Tet(f) & ~~Dodec(f)
+Dodec(f) | (~Tet(b) & Tet(f) & Dodec(f))s=126349;
