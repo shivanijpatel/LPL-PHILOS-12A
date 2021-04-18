@@ -1,0 +1,1 @@
+7.2.4.28445macs:Mac OS X10.16SntFC1618252386760D1618252423899S91155@x (~/y FrontOf(y, x) $ Large(x) )@x ((Cube(x) & /y FrontOf(y, x)) $ Small(x))@x @y ((Cube(x) & Dodec(y) & BackOf(x, y)) $ Smaller(x, y))@x @y (Between(e, x, y) $ (Small(x) & Small(y)))@x @y @z ((Tet(x) & Between(x, y, z)) $ (Small(y) & Small(z)))s=52075;
